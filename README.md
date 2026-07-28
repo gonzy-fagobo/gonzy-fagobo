@@ -1,86 +1,190 @@
-# 👋 ¡Hola!
+███████╗ █████╗  ██████╗  ██████╗ ██████╗  ██████╗
+██╔════╝██╔══██╗██╔════╝ ██╔═══██╗██╔══██╗██╔═══██╗
+█████╗  ███████║██║  ███╗██║   ██║██████╔╝██║   ██║
+██╔══╝  ██╔══██║██║   ██║██║   ██║██╔══██╗██║   ██║
+██║     ██║  ██║╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝
 
-**Me gusta crear aplicaciones que resuelvan problemas reales.**
+                G O N Z Y
 
-Desde herramientas web hasta automatizaciones para el hogar, disfruto diseñar soluciones que sean útiles, integrables y fáciles de mantener. Creo que el mejor software es aquel que simplifica tareas, ahorra tiempo y permanece útil con el paso de los años.
+# 👋 Bienvenido
 
-Soy **Gonzy**, desarrollador Full Stack y apasionado por la tecnología. Gran parte de mi tiempo libre lo dedico a crear proyectos personales que forman un ecosistema de aplicaciones conectadas entre sí mediante APIs, autenticación centralizada y componentes reutilizables.
+Me gusta crear aplicaciones que resuelvan problemas reales.
+
+Más que desarrollar proyectos independientes, disfruto construir un ecosistema donde cada aplicación comparte una misma filosofía, una arquitectura consistente y la capacidad de integrarse con las demás.
+
+Ese ecosistema se llama **FaGoBo**.
+
+# 🌐 El ecosistema FaGoBo
+
+FaGoBo es mi laboratorio de desarrollo.
+
+Cada proyecto nace para resolver una necesidad concreta, pero está diseñado para colaborar con los demás mediante APIs, autenticación centralizada, componentes reutilizables y una arquitectura modular.
+
+Mi objetivo no es crear muchas aplicaciones.
+Mi objetivo es crear un ecosistema.
+
+## 💻 Inicializando FaGoBo...
+
+```text
+Booting FaGoBo Ecosystem...
+
+[ OK ] Kernel
+[ OK ] IamRoot
+[ OK ] Chronos
+[ OK ] Graphiars
+[ OK ] Vigia
+[ OK ] KitTools
+[ OK ] Home Assistant
+[ OK ] APIs REST
+[ OK ] Docker
+[ OK ] Automatizaciones
+
+System Ready.
+
+Bienvenido.
+```
+
+# 👨‍💻 ¿Quién soy?
+
+```yaml
+Nombre: Gonzy
+
+Ubicación: Montréal, Québec 🇨🇦
+
+Especialidad:
+  - Desarrollo Web
+  - Arquitectura PHP
+  - Linux
+  - Automatización
+
+Pasiones:
+  - Programación
+  - Domótica
+  - APIs
+  - Fotografía
+  - Ciclismo
+```
+
+# 🛠 Stack tecnológico
+
+Backend
+
+PHP 8.x
+
+MySQL
+
+REST API
+
+JSON
+
+Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+Vue
+
+Infraestructura
+
+Debian
+
+Apache
+
+Docker
+
+Git
+
+SSH
+
+Automatización
+
+Home Assistant
+
+Tasker
+
+Telegram
+
+Bash
+
+# 🚀 Proyectos principales
+
+## 🔐 IamRoot
+
+Autenticación centralizada, usuarios, roles y permisos.
 
 ---
 
-## 🚀 ¿Qué encontrarás aquí?
+## ⏳ Chronos
 
-Este repositorio reúne proyectos que utilizo y desarrollo de forma continua:
-
-* 🌐 Aplicaciones web desarrolladas en PHP 8 orientado a objetos.
-* 🔐 Sistemas de autenticación, usuarios, roles y permisos.
-* ⏳ Herramientas para gestionar eventos, cronologías y fechas importantes.
-* 🖼️ Administradores de imágenes y contenido multimedia.
-* 🏠 Automatizaciones con Home Assistant, Tasker y Telegram.
-* 🐧 Utilidades para Linux y scripts de administración.
-* ⚙️ APIs REST y herramientas para integrar aplicaciones.
-
-Cada proyecto nace de una necesidad real y evoluciona conforme aparecen nuevas ideas o desafíos.
+Cronologías, eventos, aniversarios y vigencias.
 
 ---
 
-## 🛠 Tecnologías
+## 🖼 Graphiars
 
-**Backend**
-
-* PHP 8.x
-* MySQL / MariaDB
-* APIs REST
-* JSON
-
-**Frontend**
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Vue.js
-
-**Infraestructura**
-
-* Debian Linux
-* Apache
-* Docker
-* Portainer
-* SSH
-* Git
-
-**Automatización**
-
-* Home Assistant
-* Tasker
-* Bots de Telegram
-* Scripts Bash
+Administrador de imágenes.
 
 ---
 
-## 💡 Mi forma de desarrollar
+## 👁 Vigia
 
-Cuando comienzo un proyecto intento que cumpla cinco principios:
-
-* Resolver un problema real.
-* Tener una arquitectura clara.
-* Ser sencillo de mantener.
-* Poder crecer con el tiempo.
-* Integrarse fácilmente con otros sistemas.
-
-Por eso muchos de mis proyectos comparten autenticación, configuración, APIs y una misma filosofía de desarrollo.
+Monitoreo de infraestructura.
 
 ---
 
-## 📚 Siempre aprendiendo
+## 🌐 Gonzy
 
-La tecnología cambia constantemente, y esa es precisamente una de las cosas que más disfruto. Siempre hay una nueva herramienta que explorar, una arquitectura que mejorar o una forma más eficiente de resolver un problema.
+Sitio web personal.
 
 ---
 
-## 🤝 Gracias por visitar mi perfil
+## 🧰 KitTools
 
-Si alguno de mis proyectos puede servirte de inspiración, ayudarte a resolver un problema o simplemente despertar una buena conversación sobre desarrollo, habrá cumplido su objetivo.
+Colección de herramientas reutilizables.
 
-¡Bienvenido!
+# 💡 Mi filosofía
+
+No desarrollo software para demostrar que puedo hacerlo.
+
+Desarrollo software porque necesito utilizarlo.
+
+Si además puede ayudar a alguien más, entonces el proyecto ha cumplido su propósito.
+
+# 🧪 Actualmente
+
+Estoy trabajando en:
+
+- Chronos
+- Graphiars
+- IamRoot
+
+Explorando:
+
+- Progressive Web Apps (PWA)
+- Docker
+- Home Assistant
+- Inteligencia Artificial
+
+GitHub Stats
+
+Contribution Graph
+
+Top Languages
+
+Streak
+
+# 🤝 Gracias por visitar
+
+Si alguno de mis proyectos te resulta útil o te inspira para crear el tuyo, habrá cumplido su propósito.
+
+Siempre estoy aprendiendo.
+
+Siempre estoy construyendo.
+
+Siempre hay una siguiente versión.
