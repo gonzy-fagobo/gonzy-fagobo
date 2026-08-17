@@ -1,190 +1,261 @@
-███████╗ █████╗  ██████╗  ██████╗ ██████╗  ██████╗
-██╔════╝██╔══██╗██╔════╝ ██╔═══██╗██╔══██╗██╔═══██╗
-█████╗  ███████║██║  ███╗██║   ██║██████╔╝██║   ██║
-██╔══╝  ██╔══██║██║   ██║██║   ██║██╔══██╗██║   ██║
-██║     ██║  ██║╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝
-╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝
+# Gonzy · FaGoBo
 
-                G O N Z Y
+### Support applicatif · Systèmes · Automatisation
 
-# 👋 Bienvenido
+Bonjour, je suis **Sigfrido Gonzalez Puga — Gonzy**.
 
-Me gusta crear aplicaciones que resuelvan problemas reales.
+Professionnel des technologies de l’information avec une expérience antérieure en développement logiciel et Web, une formation en soutien informatique au Québec et une pratique technique active autour de **Linux, infrastructure, scripting, bases de données, intégration applicative et automatisation**.
 
-Más que desarrollar proyectos independientes, disfruto construir un ecosistema donde cada aplicación comparte una misma filosofía, una arquitectura consistente y la capacidad de integrarse con las demás.
+Je travaille actuellement dans un environnement industriel automatisé, où le diagnostic de premier niveau, la continuité opérationnelle, la documentation, l’escalade des incidents et la formation font partie de mon quotidien.
 
-Ese ecosistema se llama **FaGoBo**.
+📍 Montréal, Québec  
+📧 `gonzy@fagobo.com`  
+🌐 **Portfolio professionnel :** https://fagobo.com/gonzy/career/
 
-# 🌐 El ecosistema FaGoBo
+---
 
-FaGoBo es mi laboratorio de desarrollo.
+## Ce sur quoi je travaille
 
-Cada proyecto nace para resolver una necesidad concreta, pero está diseñado para colaborar con los demás mediante APIs, autenticación centralizada, componentes reutilizables y una arquitectura modular.
+Je développe et maintiens plusieurs projets personnels réunis autour de l’écosystème **FaGoBo**.
 
-Mi objetivo no es crear muchas aplicaciones.
-Mi objetivo es crear un ecosistema.
-
-## 💻 Inicializando FaGoBo...
+Ces projets me permettent d’expérimenter avec différentes couches d’un système :
 
 ```text
-Booting FaGoBo Ecosystem...
-
-[ OK ] Kernel
-[ OK ] IamRoot
-[ OK ] Chronos
-[ OK ] Graphiars
-[ OK ] Vigia
-[ OK ] KitTools
-[ OK ] Home Assistant
-[ OK ] APIs REST
-[ OK ] Docker
-[ OK ] Automatizaciones
-
-System Ready.
-
-Bienvenido.
+Infrastructure
+      ↓
+Systèmes
+      ↓
+Services
+      ↓
+Bases de données
+      ↓
+Applications
+      ↓
+Intégration
+      ↓
+Automatisation
+      ↓
+Supervision
 ```
 
-# 👨‍💻 ¿Quién soy?
+Mon objectif n’est pas simplement de développer des applications indépendantes.
 
-```yaml
-Nombre: Gonzy
+Je cherche à comprendre comment les différents composants peuvent **communiquer, être administrés, supervisés et évoluer ensemble**.
 
-Ubicación: Montréal, Québec 🇨🇦
+---
 
-Especialidad:
-  - Desarrollo Web
-  - Arquitectura PHP
-  - Linux
-  - Automatización
+## Projets techniques sélectionnés
 
-Pasiones:
-  - Programación
-  - Domótica
-  - APIs
-  - Fotografía
-  - Ciclismo
+### 🖧 fagobo.lan
+
+**Laboratoire personnel d’infrastructure**
+
+Homelab utilisé pour expérimenter avec plusieurs systèmes et services répartis sur différents hôtes.
+
+**Technologies :**
+
+`Linux` · `Debian` · `Proxmox` · `Docker` · `Portainer` · `Raspberry Pi` · `MySQL` · `Ethernet` · `OPNsense`
+
+Le laboratoire héberge notamment plusieurs applications et services conteneurisés et constitue la base technique de plusieurs de mes autres projets.
+
+➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/fagobo-lan/)
+
+---
+
+### 🔐 IamRoot
+
+**Authentification centralisée et gestion des accès**
+
+Application Web personnelle permettant de centraliser l’authentification et de gérer :
+
+- utilisateurs ;
+- applications ;
+- rôles ;
+- permissions ;
+- autorisations d’accès.
+
+Les différentes applications peuvent communiquer avec IamRoot au moyen de requêtes HTTP et d’échanges JSON.
+
+**Technologies :**
+
+`PHP` · `MySQL` · `SQL` · `REST` · `HTTP` · `JSON` · `Bootstrap`
+
+➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/iamroot/)
+
+---
+
+### ⚙️ Automatisation & supervision
+
+**Home Assistant + Vigia**
+
+Environnement personnel d’automatisation basé sur les événements, les états, les conditions et les temporisateurs.
+
+Il comprend notamment :
+
+- automatisations Home Assistant ;
+- tableaux de bord ;
+- notifications ;
+- journalisation ;
+- intégration de services ;
+- expérimentation avec une base MySQL externe ;
+- application Web Vigia pour la consultation et la supervision.
+
+**Technologies :**
+
+`Home Assistant` · `YAML` · `Linux` · `MySQL` · `PHP` · `JSON` · `Telegram`
+
+➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/automation/)
+
+---
+
+### `$` Bash Tools
+
+**Outils d’automatisation Linux**
+
+Ensemble de scripts développés pour automatiser différentes opérations répétitives :
+
+- inventaires récursifs ;
+- analyse d’arborescences ;
+- traitement par lots ;
+- normalisation de noms ;
+- génération de rapports ;
+- conversions ;
+- validation interactive ;
+- gestion des erreurs.
+
+Une attention particulière est portée à la possibilité de **simuler les changements avant leur exécution** grâce aux modes `dry-run`.
+
+**Technologies :**
+
+`Bash` · `Shell` · `Linux` · `find` · `grep` · `sed` · `awk`
+
+➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/bash-tools/)
+
+---
+
+## Stack actuel
+
+### Systèmes & infrastructure
+
+`Linux / Debian`  
+`Windows`  
+`Windows Server`  
+`Proxmox`  
+`Docker`  
+`Portainer`  
+`VMware / VirtualBox`
+
+### Développement & scripting
+
+`Bash / Shell`  
+`PHP`  
+`JavaScript`  
+`HTML5 / CSS`  
+`Bootstrap`
+
+### Données & intégration
+
+`SQL`  
+`MySQL`  
+`SQLite`  
+`REST API`  
+`HTTP`  
+`JSON`  
+`AJAX / Fetch`
+
+### Réseau
+
+`TCP/IP`  
+`Ethernet`  
+`Routeurs / commutateurs`
+
+Notions de base :
+
+`DNS / DHCP` · `OPNsense`
+
+### Automatisation
+
+`Home Assistant`  
+`YAML`  
+`Telegram`
+
+---
+
+## Autres projets FaGoBo
+
+### ⏳ Chronos
+
+Application de gestion de chronologies, événements, anniversaires, vigences et autres données temporelles.
+
+### 🖼️ Graphiars
+
+Application Web destinée à la gestion et à l’organisation d’images.
+
+### 👁️ Vigia
+
+Projet de journalisation et de supervision intégré à certains de mes travaux d’automatisation.
+
+### 🧰 KitTools
+
+Collection d’outils et de mini-applications destinés à regrouper différentes fonctions réutilisables.
+
+Ces projets font partie de mon environnement personnel de développement et continuent d’évoluer progressivement.
+
+---
+
+## Expérience industrielle
+
+Mon activité professionnelle actuelle me permet également de travailler quotidiennement dans un environnement de production automatisé.
+
+J’y utilise notamment :
+
+- interfaces opérateur et HMI ;
+- systèmes Windows ;
+- applications Web internes ;
+- machines virtuelles ;
+- systèmes de contrôle et de suivi ;
+- procédures de diagnostic et d’escalade.
+
+Cette expérience m’apporte une perspective complémentaire à mon parcours informatique : **comprendre non seulement les systèmes, mais aussi les opérations qui en dépendent.**
+
+---
+
+## Ma façon de travailler
+
+```text
+Observer
+   ↓
+Comprendre
+   ↓
+Diagnostiquer
+   ↓
+Automatiser lorsque c’est pertinent
+   ↓
+Documenter
+   ↓
+Améliorer
 ```
 
-# 🛠 Stack tecnológico
+Je préfère comprendre la cause d’un problème plutôt que simplement contourner son symptôme.
 
-Backend
-
-PHP 8.x
-
-MySQL
-
-REST API
-
-JSON
-
-Frontend
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-Vue
-
-Infraestructura
-
-Debian
-
-Apache
-
-Docker
-
-Git
-
-SSH
-
-Automatización
-
-Home Assistant
-
-Tasker
-
-Telegram
-
-Bash
-
-# 🚀 Proyectos principales
-
-## 🔐 IamRoot
-
-Autenticación centralizada, usuarios, roles y permisos.
+Mes projets personnels sont principalement créés pour répondre à des besoins réels, expérimenter avec de nouvelles technologies et continuer à développer mes compétences.
 
 ---
 
-## ⏳ Chronos
+## Portfolio & CV
 
-Cronologías, eventos, aniversarios y vigencias.
+🌐 **Portfolio professionnel**  
+https://fagobo.com/gonzy/career/
 
----
+📄 **CV**  
+https://fagobo.com/gonzy/career/cv/
 
-## 🖼 Graphiars
+🧪 **Projets techniques**  
+https://fagobo.com/gonzy/career/projects/
 
-Administrador de imágenes.
-
----
-
-## 👁 Vigia
-
-Monitoreo de infraestructura.
+📧 **Contact**  
+`gonzy@fagobo.com`
 
 ---
 
-## 🌐 Gonzy
-
-Sitio web personal.
-
----
-
-## 🧰 KitTools
-
-Colección de herramientas reutilizables.
-
-# 💡 Mi filosofía
-
-No desarrollo software para demostrar que puedo hacerlo.
-
-Desarrollo software porque necesito utilizarlo.
-
-Si además puede ayudar a alguien más, entonces el proyecto ha cumplido su propósito.
-
-# 🧪 Actualmente
-
-Estoy trabajando en:
-
-- Chronos
-- Graphiars
-- IamRoot
-
-Explorando:
-
-- Progressive Web Apps (PWA)
-- Docker
-- Home Assistant
-- Inteligencia Artificial
-
-GitHub Stats
-
-Contribution Graph
-
-Top Languages
-
-Streak
-
-# 🤝 Gracias por visitar
-
-Si alguno de mis proyectos te resulta útil o te inspira para crear el tuyo, habrá cumplido su propósito.
-
-Siempre estoy aprendiendo.
-
-Siempre estoy construyendo.
-
-Siempre hay una siguiente versión.
+### Toujours apprendre. Toujours construire. Toujours améliorer.
