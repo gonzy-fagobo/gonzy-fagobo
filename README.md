@@ -129,7 +129,8 @@ Une attention particulière est portée à la possibilité de **simuler les chan
 
 `Bash` · `Shell` · `Linux` · `find` · `grep` · `sed` · `awk`
 
-➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/bash-tools/)
+➡️ [Voir le cas technique](https://fagobo.com/gonzy/career/projects/bash-tools/)  
+➡️ [Voir le code source](https://github.com/gonzy-fagobo/bash-tools)
 
 ---
 
